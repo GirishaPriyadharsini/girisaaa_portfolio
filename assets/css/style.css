@@ -1198,6 +1198,11 @@ a:hover {
 
 }
 
+.blog-wrapper video {
+  width: 100%; /* Adjust the width as needed */
+  height: auto; /* Maintain aspect ratio */
+}
+
 .blog-wrapper .article-content{
     color: #181616;
 }
